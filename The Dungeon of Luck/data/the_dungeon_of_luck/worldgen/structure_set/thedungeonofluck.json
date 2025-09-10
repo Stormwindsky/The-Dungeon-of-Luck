@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "the_dungeon_of_luck:thedungeonofluck",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 15,
+    "separation": 4,
+    "salt": 31761874
+  }
+}
